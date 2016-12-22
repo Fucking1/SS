@@ -14,14 +14,14 @@ using System.Windows.Forms;
 
 namespace ScreenShooterX
 {
-    public partial class Form1 : Form
+    public partial class Main : Form
     {
         private const int WH_KEYBOARD_LL = 13;
         private const int WM_KEYDOWN = 0x0100;
         private static LowLevelKeyboardProc _proc = HookCallback;
         private static IntPtr _hookID = IntPtr.Zero;
 
-        public Form1()
+        public Main()
         {
             InitializeComponent();
             _hookID = SetHook(_proc);
