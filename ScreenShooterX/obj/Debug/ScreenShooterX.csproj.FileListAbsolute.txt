@@ -1,0 +1,13 @@
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\bin\Debug\ScreenShooterX.exe.config
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\bin\Debug\ScreenShooterX.exe
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\bin\Debug\ScreenShooterX.pdb
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\obj\Debug\ScreenShooterX.csprojResolveAssemblyReference.cache
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\obj\Debug\ScreenShooterX.Form1.resources
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\obj\Debug\ScreenShooterX.Properties.Resources.resources
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\obj\Debug\ScreenShooterX.csproj.GenerateResource.Cache
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\obj\Debug\ScreenShooterX.exe
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\obj\Debug\ScreenShooterX.pdb
+c:\users\bartoss\documents\visual studio 2015\Projects\ScreenShooterX\ScreenShooterX\obj\Debug\ScreenShooterX.Form2.resources
+C:\Users\Bartoss\Source\Repos\ScreenShooterThis\ScreenShooterX\bin\Debug\ScreenShooterX.exe.config
+C:\Users\Bartoss\Source\Repos\ScreenShooterThis\ScreenShooterX\obj\Debug\ScreenShooterX.exe
+C:\Users\Bartoss\Source\Repos\ScreenShooterThis\ScreenShooterX\obj\Debug\ScreenShooterX.pdb
